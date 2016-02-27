@@ -1,0 +1,43 @@
+
+header {
+	padding:10px 30px;
+	background-color:rgba(255, 255, 255, 0.15);
+}
+
+header a {
+	text-decoration:none;
+	color:white;
+}
+
+header .header_content_area {
+	margin:0 auto;
+	max-width: 950px;
+}
+
+header .logo {
+	font-family: 'Montserrat', sans-serif;
+	font-size:32px;
+}
+
+header .signIn {
+	display:inline-block;
+	float:right;
+	margin:10px 0;
+	margin-right:25px;
+}
+
+header .signIn:hover {
+	text-decoration:underline;
+}
+
+header .register {
+	float:right;
+	padding:7px;
+	border:3px solid white;
+	border-radius:4px;
+}
+
+header .register:hover {
+	background-color:white;
+	color:#333333;
+}
