@@ -1,0 +1,10 @@
+body {
+	padding:150px;
+}
+
+.flasher {
+	color:black;
+	font-weight:bold;
+	background-color:yellow;
+	opacity:0;
+}
